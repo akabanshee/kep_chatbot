@@ -1,1 +1,1 @@
-prinf("hello world")
+print("hello world")
